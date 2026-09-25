@@ -1,3 +1,20 @@
+Metadata-Version: 2.4
+Name: macmorpher
+Version: 1.0.0
+Summary: Manually or randomly change a machine's current MAC address.
+Author-email: Mai Tan Duc <ducmai.network@gmail.com>
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Provides-Extra: dev
+Requires-Dist: pytest==8.3.5; extra == "dev"
+Requires-Dist: pytest-cov==6.0.0; extra == "dev"
+Requires-Dist: ruff==0.9.6; extra == "dev"
+Requires-Dist: bandit==1.8.3; extra == "dev"
+Requires-Dist: mypy==1.15.0; extra == "dev"
+Requires-Dist: pre-commit==3.8.0; extra == "dev"
+Dynamic: license-file
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 # Table of Contents
